@@ -1,0 +1,64 @@
+.select2-container .select2-selection--single {
+  height: 38px !important;
+}
+.select2-container--default
+  .select2-selection--single
+  .select2-selection__render {
+  line-height: 38px !important;
+}
+.select2-container--default
+  .select2-selection--single
+  .select2-selection__arrow {
+  height: 38px !important;
+}
+
+.quantityInput {
+  width: 50px !important;
+  padding: 6px 3px;
+  text-align: center;
+  border: 1 solid #ffee12;
+  outline: 0;
+  margin-right: 1px;
+}
+.summary-table {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.first-summary-part {
+  text-align: center;
+  margin: 2px;
+  padding: 0;
+}
+.first-summary-part h4 {
+  font-size: 23px;
+  line-height: 30px;
+}
+.first-summary-part p {
+  font-size: 16px;
+  line-height: 24px;
+}
+.second-summary-part h5 {
+  font-size: 20px;
+  line-height: 30px;
+  margin: 0px;
+  padding: 0;
+}
+.second-summary-part p {
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0px;
+  padding: 0;
+}
+.secondTable {
+  width: 100%;
+}
+.secondTable th {
+  border-bottom: 1px solid #ccc;
+  align-items: start;
+}
+.secondTable .tr td {
+  border-bottom: 1px solid #ccc;
+}
+.grand-total {
+  font-weight: bold;
+}
